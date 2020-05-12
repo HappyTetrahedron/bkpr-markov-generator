@@ -1,0 +1,6 @@
+venv
+*.pyc
+.idea
+
+*.txt
+*.json
